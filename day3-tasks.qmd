@@ -1,0 +1,20 @@
+---
+title: "day3-tasks"
+format: html
+editor: visual
+---
+
+```{r}
+# create and store new vectors
+
+vec_a <- c(1,6)
+vec_b <- c(2,4)
+
+# checking vector equations
+vec_a + vec_b
+vec_b - vec_a
+2 * vec_a
+vec_a %*% vec_b
+
+```
+
